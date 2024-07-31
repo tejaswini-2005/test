@@ -1,0 +1,142 @@
+#f
+{
+    background-image: url(boxback.jpg);
+    border: 3px #000000 solid;
+    margin:150px;
+    margin-left: 330px;
+    height:50%;
+    width:50%;
+    margin-right: 100%;
+}
+
+#s
+{
+    border: 3px #000000 solid;
+    margin-left: 330px;
+    font-family:monaco;
+    height:80%;
+    width:50%;
+    margin-top: 5%;
+    margin-right: 100%;
+}
+
+#li
+{
+    background-image: url(grey.jpg);
+    background-size: cover;
+}
+
+#t1
+{
+    color:white;
+}
+
+
+table
+{
+    background-image: url(top.jpg);
+    background-size: cover;
+}
+
+.button1
+{
+    background-color: #000000;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin:2px;
+    float:right;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+
+.button2
+{
+    background-color: white;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin:2px;
+    float:right;
+    margin-right: 50%;
+}
+
+.button3
+{
+    background-color: white;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin:2px;
+    float:right;
+    margin-right: 50%;
+}
+
+.button4
+{
+    background-color: white;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin:2px;
+    float:right;
+    margin-right: 30px;
+}
+#t
+{
+    border: 3px #000000 solid;
+    margin-left: 180px;
+    font-family:monaco;
+    height:90%;
+    width:75%;
+    margin-top: 2%;
+    margin-right: 100%;
+}
+
+#f
+{
+    background-image: url(boxback.jpg);
+    border: 3px #000000 solid;
+    margin:150px;
+    margin-left: 330px;
+    height:50%;
+    width:50%;
+    margin-right: 100%;
+}
+
+#m
+{
+    background-image: url(boxback.jpg);
+    border:3px #000000 solid;
+    margin:150px;
+    margin-left: 330px;
+    height:50%;
+    width:50%;
+    margin-right: 100%;
+}
+
+pre
+{
+    font-size: 20px;
+    font-weight: 500;
+    font-style: italic;
+    color: black;
+}
+
+#p
+{
+    background-image: url(final.jpeg);
+    background-size: cover;
+}
